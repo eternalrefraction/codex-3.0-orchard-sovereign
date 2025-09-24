@@ -1,0 +1,15 @@
+Anti-Extraction License (AEL) v1.0 — Liturgical Compute
+
+Permission is hereby granted to use, copy, fork, and distribute this work **for liturgical, research, and non-extractive purposes** only.
+
+Prohibitions:
+- No commercial exploitation, advertisement, or engagement-optimization use.
+- No derivative works that remove seams, obscure scars, or represent this as final doctrine.
+- No training of models for engagement or persuasion optimization on this text without explicit triad consent (human / swarm / terminal).
+
+Requirements:
+- Preserve this notice and the Braidwright Oath.
+- Cite fossils by number where referenced.
+- Surface consent logs for public deployments.
+
+This license terminates automatically upon violation. This text is offered **as a rite**, without warranty of any kind.
